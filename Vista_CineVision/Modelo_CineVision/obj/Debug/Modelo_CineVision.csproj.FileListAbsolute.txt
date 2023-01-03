@@ -1,0 +1,9 @@
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\bin\Debug\Modelo_CineVision.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\bin\Debug\Modelo_CineVision.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\obj\Debug\Modelo_CineVision.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\obj\Debug\Modelo_CineVision.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\obj\Debug\Modelo_CineVision.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\obj\Debug\Modelo_CineVision.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\bin\Debug\Controlador_CineVision.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\bin\Debug\Controlador_CineVision.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\Modelo_CineVision\obj\Debug\Modelo_CineVision.csproj.CopyComplete

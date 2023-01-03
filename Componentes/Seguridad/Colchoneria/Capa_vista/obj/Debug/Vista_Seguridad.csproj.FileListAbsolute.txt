@@ -1,0 +1,455 @@
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Aplicacion.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacion.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacionesPerfiles.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionModuloAplicacion.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionPerfiles.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudaaplicacion.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionesPerfiles.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionUsuarios.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionModuloAplicacion.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionPerfilesUsuario.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaContraseña.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaMenuSeguridad.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaModulo.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaPerfiles.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudausuario.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Bitacora.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Cambio.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Contrase.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ListAplicaciones.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Login.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Menup.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.MenuSeguridad.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Modulos.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Navegador_seg.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Perfiles.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Properties.Resources.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.prueba.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.recuperacion.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.splash.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Usuario.resources
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaNomina.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaProduccion.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaContabilidad.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ComprasVista.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\eCryptography.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Bancos.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaControladorNomina.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ComprasControlador.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Controlador_Bancos.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaModuloNomina.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ZstdNet.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ComprasModelo.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\stdole.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaNomina.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaProduccion.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaProduccion.dll.config
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaContabilidad.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaContabilidad.dll.config
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ComprasVista.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Bancos.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaControladorNomina.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ComprasControlador.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Controlador_Bancos.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaModuloNomina.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ComprasModelo.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\VistaLogistica.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ControladorLogistica.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ModeloLogistica.dll
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\VistaLogistica.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ControladorLogistica.pdb
+C:\Users\leone\OneDrive\Escritorio\b\Codigo\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ModeloLogistica.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\eCryptography.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.AssemblyReference.cache
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Aplicacion.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacion.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacionesPerfiles.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionModuloAplicacion.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionPerfiles.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudaaplicacion.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionesPerfiles.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionUsuarios.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionModuloAplicacion.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionPerfilesUsuario.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaContraseña.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaMenuSeguridad.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaModulo.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaPerfiles.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudausuario.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Bitacora.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Cambio.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Contrase.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ListAplicaciones.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Login.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Menup.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.MenuSeguridad.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Modulos.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Navegador_seg.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Perfiles.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Properties.Resources.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.prueba.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.recuperacion.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.splash.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Usuario.resources
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.GenerateResource.cache
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CoreCompileInputs.cache
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CopyComplete
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\FontAwesome.Sharp.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaConsultas.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_ControladorConsultas.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_Modelo.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ZstdNet.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Shared.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\stdole.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaConsultas.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll.config
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_ControladorConsultas.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_Modelo.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.pdb
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.xml
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista.dll
+D:\cSharp\FINAL\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\eCryptography.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_Modelo.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ZstdNet.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\stdole.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.pdb
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Aplicacion.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacion.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacionesPerfiles.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionModuloAplicacion.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionPerfiles.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudaaplicacion.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionesPerfiles.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionUsuarios.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionModuloAplicacion.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionPerfilesUsuario.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaContraseña.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaMenuSeguridad.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaModulo.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaPerfiles.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudausuario.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Bitacora.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Cambio.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Contrase.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ListAplicaciones.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Login.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Menup.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.MenuSeguridad.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Modulos.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Navegador_seg.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Perfiles.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Properties.Resources.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.prueba.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.recuperacion.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.splash.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Usuario.resources
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CopyComplete
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.dll
+C:\Users\Diana\Desktop\ExamenFinal\CODIGO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Vista_Seguridad.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CineVision.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\eCryptography.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_Modelo.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ZstdNet.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\stdole.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CineVision.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorVista.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorControlador.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\NavegadorModelo.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\MySql.Data.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Google.Protobuf.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Memory.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Buffers.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Aplicacion.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacion.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionAplicacionesPerfiles.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionModuloAplicacion.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AsignacionPerfiles.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudaaplicacion.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionesPerfiles.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionAplicacionUsuarios.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionModuloAplicacion.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaAsignacionPerfilesUsuario.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaContraseña.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaMenuSeguridad.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaModulo.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.AyudaPerfiles.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ayudausuario.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Bitacora.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Cambio.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Contrase.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.ListAplicaciones.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Login.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Menup.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.MenuSeguridad.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Modulos.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Navegador_seg.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Perfiles.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Properties.Resources.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.prueba.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.recuperacion.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.splash.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.Usuario.resources
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.csproj.CopyComplete
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\obj\Debug\Vista_Seguridad.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Controlador_CineVision.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Controlador_CineVision.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_CineVision.dll
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\Modelo_CineVision.pdb
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Componentes\Seguridad\Colchoneria\Capa_vista\bin\Debug\CineVision.dll.config
