@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CineVision
 {
-    public partial class Cines : Form
+    public partial class Alumno : Form
     {
-        public Cines()
+        public Alumno()
         {
             InitializeComponent();
         }
@@ -20,13 +20,14 @@ namespace CineVision
         private void navegador1_Load(object sender, EventArgs e)
         {
             NavegadorVista.Navegador.idApp = "2004";
-            TextBox[] textBoxes = { textID, textNombre,textCarnet,textDireccion, textTelefono, textEmail, textStatus};
-            TextBox[] textBoxes1 = { textID, textNombre };
-            navegador1.actual = this;
+            TextBox[] Grupotextbox = { textID, textCarnet, textNombre,
+                textDireccion, textTelefono, textEmail, textStatus };
+            TextBox[] Idtextbox = { textID, textCarnet };
+            navegador1.textbox = Grupotextbox;
             navegador1.tabla = dgvcine;
-            navegador1.textbox = textBoxes;
-            navegador1.textboxi = textBoxes1;
-            navegador1.cargar(dgvcine, textBoxes, "cinevision");
+            navegador1.textboxi = Idtextbox;
+            navegador1.actual = this;
+            navegador1.cargar(dgvcine, Grupotextbox, "cinevision");
         }
     }
 }

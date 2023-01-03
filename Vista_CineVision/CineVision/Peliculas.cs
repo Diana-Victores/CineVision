@@ -21,7 +21,7 @@ namespace CineVision
         {
             NavegadorVista.Navegador.idApp = "2003";
             TextBox[] Grupotextbox = { textIDPelicula, textNombrePelicula,
-                textClasificacion, textGenero, textSubtitulado, Idioma, textPrecio };
+                textClasificacion, textGenero, textSubtitulado, textstatus };
             TextBox[] Idtextbox = { textIDPelicula, textNombrePelicula };
             navegador1.textbox = Grupotextbox;
             navegador1.tabla = dgvPeliculas;

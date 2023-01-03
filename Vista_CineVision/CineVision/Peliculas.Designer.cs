@@ -31,9 +31,6 @@ namespace CineVision
         {
             this.navegador1 = new NavegadorVista.Navegador();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textPrecio = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.textGenero = new System.Windows.Forms.TextBox();
             this.textClasificacion = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -45,7 +42,8 @@ namespace CineVision
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.dgvPeliculas = new System.Windows.Forms.DataGridView();
-            this.Idioma = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textstatus = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPeliculas)).BeginInit();
             this.SuspendLayout();
@@ -60,9 +58,7 @@ namespace CineVision
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.Idioma);
-            this.groupBox1.Controls.Add(this.textPrecio);
-            this.groupBox1.Controls.Add(this.label7);
+            this.groupBox1.Controls.Add(this.textstatus);
             this.groupBox1.Controls.Add(this.label6);
             this.groupBox1.Controls.Add(this.textGenero);
             this.groupBox1.Controls.Add(this.textClasificacion);
@@ -81,32 +77,6 @@ namespace CineVision
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos";
             // 
-            // textPrecio
-            // 
-            this.textPrecio.Location = new System.Drawing.Point(348, 115);
-            this.textPrecio.Name = "textPrecio";
-            this.textPrecio.Size = new System.Drawing.Size(161, 20);
-            this.textPrecio.TabIndex = 29;
-            this.textPrecio.Tag = "precio";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(305, 122);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(37, 13);
-            this.label7.TabIndex = 27;
-            this.label7.Text = "Precio";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(304, 74);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(38, 13);
-            this.label6.TabIndex = 26;
-            this.label6.Text = "Idioma";
-            // 
             // textGenero
             // 
             this.textGenero.Location = new System.Drawing.Point(111, 154);
@@ -114,7 +84,7 @@ namespace CineVision
             this.textGenero.Name = "textGenero";
             this.textGenero.Size = new System.Drawing.Size(161, 20);
             this.textGenero.TabIndex = 24;
-            this.textGenero.Tag = "Genero";
+            this.textGenero.Tag = "telefono_maetro";
             // 
             // textClasificacion
             // 
@@ -123,7 +93,7 @@ namespace CineVision
             this.textClasificacion.Name = "textClasificacion";
             this.textClasificacion.Size = new System.Drawing.Size(161, 20);
             this.textClasificacion.TabIndex = 23;
-            this.textClasificacion.Tag = "Clasificación";
+            this.textClasificacion.Tag = "direccion_maestro";
             // 
             // label5
             // 
@@ -131,19 +101,19 @@ namespace CineVision
             this.label5.Location = new System.Drawing.Point(65, 157);
             this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(42, 13);
+            this.label5.Size = new System.Drawing.Size(49, 13);
             this.label5.TabIndex = 22;
-            this.label5.Text = "Genero";
+            this.label5.Text = "Telefono";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(41, 112);
+            this.label3.Location = new System.Drawing.Point(55, 112);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(66, 13);
+            this.label3.Size = new System.Drawing.Size(52, 13);
             this.label3.TabIndex = 21;
-            this.label3.Text = "Clasificacion";
+            this.label3.Text = "Direccion";
             // 
             // textSubtitulado
             // 
@@ -152,17 +122,17 @@ namespace CineVision
             this.textSubtitulado.Name = "textSubtitulado";
             this.textSubtitulado.Size = new System.Drawing.Size(161, 20);
             this.textSubtitulado.TabIndex = 20;
-            this.textSubtitulado.Tag = "Subtitulado";
+            this.textSubtitulado.Tag = "email_maestro";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(282, 34);
+            this.label4.Location = new System.Drawing.Point(304, 31);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(60, 13);
+            this.label4.Size = new System.Drawing.Size(32, 13);
             this.label4.TabIndex = 19;
-            this.label4.Text = "Subtitulado";
+            this.label4.Text = "Email";
             // 
             // textNombrePelicula
             // 
@@ -171,7 +141,7 @@ namespace CineVision
             this.textNombrePelicula.Name = "textNombrePelicula";
             this.textNombrePelicula.Size = new System.Drawing.Size(161, 20);
             this.textNombrePelicula.TabIndex = 18;
-            this.textNombrePelicula.Tag = "Nombre";
+            this.textNombrePelicula.Tag = "nombre_maestro";
             // 
             // textIDPelicula
             // 
@@ -180,7 +150,7 @@ namespace CineVision
             this.textIDPelicula.Name = "textIDPelicula";
             this.textIDPelicula.Size = new System.Drawing.Size(161, 20);
             this.textIDPelicula.TabIndex = 17;
-            this.textIDPelicula.Tag = "idPeliculas";
+            this.textIDPelicula.Tag = "codigo_maestro";
             // 
             // label2
             // 
@@ -218,15 +188,24 @@ namespace CineVision
             this.dgvPeliculas.RowTemplate.Height = 28;
             this.dgvPeliculas.Size = new System.Drawing.Size(773, 154);
             this.dgvPeliculas.TabIndex = 32;
-            this.dgvPeliculas.Tag = "Peliculas";
+            this.dgvPeliculas.Tag = "maestros";
             // 
-            // Idioma
+            // label6
             // 
-            this.Idioma.Location = new System.Drawing.Point(349, 74);
-            this.Idioma.Name = "Idioma";
-            this.Idioma.Size = new System.Drawing.Size(160, 20);
-            this.Idioma.TabIndex = 30;
-            this.Idioma.Tag = "Idioma";
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(300, 66);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(42, 13);
+            this.label6.TabIndex = 25;
+            this.label6.Text = "Estatus";
+            // 
+            // textstatus
+            // 
+            this.textstatus.Location = new System.Drawing.Point(348, 66);
+            this.textstatus.Name = "textstatus";
+            this.textstatus.Size = new System.Drawing.Size(161, 20);
+            this.textstatus.TabIndex = 26;
+            this.textstatus.Tag = "estatus_maestro";
             // 
             // Peliculas
             // 
@@ -237,7 +216,7 @@ namespace CineVision
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.navegador1);
             this.Name = "Peliculas";
-            this.Text = "Peliculas";
+            this.Text = "Maestros ";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPeliculas)).EndInit();
@@ -249,9 +228,6 @@ namespace CineVision
 
         private NavegadorVista.Navegador navegador1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textPrecio;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox textGenero;
         private System.Windows.Forms.TextBox textClasificacion;
         private System.Windows.Forms.Label label5;
@@ -263,6 +239,7 @@ namespace CineVision
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridView dgvPeliculas;
-        private System.Windows.Forms.TextBox Idioma;
+        private System.Windows.Forms.TextBox textstatus;
+        private System.Windows.Forms.Label label6;
     }
 }

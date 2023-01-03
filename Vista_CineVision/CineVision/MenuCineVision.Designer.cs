@@ -68,7 +68,7 @@ namespace CineVision
             this.btnCine.Size = new System.Drawing.Size(252, 39);
             this.btnCine.TabIndex = 0;
             this.btnCine.Tag = "Cines";
-            this.btnCine.Text = "Cine";
+            this.btnCine.Text = "Alumno";
             this.btnCine.UseVisualStyleBackColor = false;
             this.btnCine.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -83,7 +83,7 @@ namespace CineVision
             this.btnPelicula.Size = new System.Drawing.Size(252, 37);
             this.btnPelicula.TabIndex = 1;
             this.btnPelicula.Tag = "Peliculas";
-            this.btnPelicula.Text = "Pelicula";
+            this.btnPelicula.Text = "Profesor";
             this.btnPelicula.UseVisualStyleBackColor = false;
             this.btnPelicula.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -260,7 +260,7 @@ namespace CineVision
             this.btnCompraBoleto.Name = "btnCompraBoleto";
             this.btnCompraBoleto.Size = new System.Drawing.Size(252, 37);
             this.btnCompraBoleto.TabIndex = 0;
-            this.btnCompraBoleto.Text = "Compra Boleto";
+            this.btnCompraBoleto.Text = "Registro notas";
             this.btnCompraBoleto.UseVisualStyleBackColor = true;
             this.btnCompraBoleto.Click += new System.EventHandler(this.btnCompraBoleto_Click);
             // 
@@ -297,7 +297,7 @@ namespace CineVision
             this.Controls.Add(this.panelgeneral);
             this.IsMdiContainer = true;
             this.Name = "MenuCineVision";
-            this.Text = "MenuCineVision";
+            this.Text = "Menu Universidad Diana Victores 9959-19-1471";
             this.Load += new System.EventHandler(this.MenuCineVision_Load);
             this.panelMantenimientos.ResumeLayout(false);
             this.panelgeneral.ResumeLayout(false);
