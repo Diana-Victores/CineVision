@@ -89,7 +89,7 @@ namespace CineVision
 
         private void btnCompraBoleto_Click(object sender, EventArgs e)
         {
-            ProcesoFactura b = new ProcesoFactura();
+            CineVision.ProcesoFactura b = new CineVision.ProcesoFactura();
             b.MdiParent = this;
             b.Show();
             pictureBox1.Visible = false;

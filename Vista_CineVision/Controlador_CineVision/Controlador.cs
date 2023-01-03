@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Controlador_CineVision
 {
     public class Controlador
     {
-        Sentencia Sn = new Sentencia();
+        Modelo_CineVision.Sentencia  Sn = new Modelo_CineVision.Sentencia();
         Controlador cns = new Controlador();
         OdbcConnection con = new OdbcConnection("FIL=MS Acces;DSN=cinevision");
 
@@ -201,7 +202,172 @@ namespace Controlador_CineVision
 
 
         }
-        
 
+        public bool InsertProducto(
+            string _Pk, string _Edi, string _Mue, string _Equi,
+            string _Maqui, string _Herra)
+        {
+            try
+            {
+                using (OdbcConnection con = new OdbcConnection("FIL=MS Access;DSN=cinevision"))
+                {
+                    OdbcCommand cmd = new OdbcCommand();
+                    con.Open();
+                    cmd.Connection = con;
+
+                    #region Query
+                    string query = @"INSERT INTO
+                    compra_boletos
+                    (idboleto,  fkCliente,fkPelicula,idhorarioCine,idSalas,
+                     fkidAsientos)VALUE(?,?,?,?,?,?);";
+                    #endregion
+                    cmd.CommandType = CommandType.Text;
+                    cmd.CommandText = query;
+                    cmd.Parameters.Add("@idboleto", OdbcType.Int).Value = _Pk;
+                    cmd.Parameters.Add("@fkCliente", OdbcType.VarChar).Value = _Edi;
+                    cmd.Parameters.Add("@fkPelicula", OdbcType.VarChar).Value = _Mue;
+                    cmd.Parameters.Add("@idhorarioCine", OdbcType.VarChar).Value = _Equi;
+                    cmd.Parameters.Add("@idSalas", OdbcType.VarChar).Value = _Maqui;
+                    cmd.Parameters.Add("@fkidAsientos", OdbcType.VarChar).Value = _Herra;
+                    
+                    cmd.ExecuteNonQuery();
+                    cmd.Parameters.Clear();
+                    con.Close();
+                }
+                return true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+        }
+        public bool UpdateProducto(string _Pk, string _Edi, string _Mue, string _Equi, string _Maqui, string _Herra)
+        {
+            try
+            {
+                using (OdbcConnection con = new OdbcConnection("FIL=MS Access;DSN=cinevision"))
+                {
+                    OdbcCommand cmd = new OdbcCommand();
+                    con.Open();
+                    cmd.Connection = con;
+
+                    #region Query
+                    string query = @"UPDATE compra_boletos SET compra_boletos.idboleto = ?,
+                    compra_boletos.fkCliente = ?, 
+                    compra_boletos.fkPelicula = ?,
+                    compra_boletos.idhorarioCine = ? , 
+                    compra_boletos.idSalas = ? , 
+                    compra_boletos.fkidAsientos = ?
+                    WHERE compra_boletos.idboleto = ?;";
+                    #endregion
+                    cmd.CommandType = CommandType.Text;
+                    cmd.CommandText = query;
+
+                    cmd.Parameters.Add("@fkCliente", OdbcType.VarChar).Value = _Edi;
+                    cmd.Parameters.Add("@fkPelicula", OdbcType.VarChar).Value = _Mue;
+                    cmd.Parameters.Add("@idhorarioCine", OdbcType.VarChar).Value = _Equi;
+                    cmd.Parameters.Add("@idSalas", OdbcType.VarChar).Value = _Maqui;
+                    cmd.Parameters.Add("@fkidAsientos", OdbcType.VarChar).Value = _Herra;
+                    
+                    cmd.Parameters.Add("@idboleto", OdbcType.Int).Value = _Pk;
+
+                    cmd.ExecuteNonQuery();
+                    cmd.Parameters.Clear();
+                    con.Close();
+                }
+                return true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+        }
+
+        public bool DeleteProducto(string _Pk)
+        {
+            try
+            {
+                using (OdbcConnection con = new OdbcConnection("FIL=MS Access;DSN=cinevision"))
+                {
+                    OdbcCommand cmd = new OdbcCommand();
+                    con.Open();
+                    cmd.Connection = con;
+                    #region Query
+                    string query = @"DELETE FROM compra_boletos
+                    WHERE compra_boletos.idboleto = ?;";
+                    #endregion
+                    cmd.CommandType = CommandType.Text;
+                    cmd.CommandText = query;
+                    cmd.Parameters.Add("@idboleto", OdbcType.VarChar).Value = _Pk;
+                    cmd.ExecuteNonQuery();
+
+                    cmd.Parameters.Clear();
+                    con.Close();
+                }
+                return true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+        }
+        public DataTable BuscarDato(string data, string col, DataTable dt)
+        {
+            OdbcConnection con = new OdbcConnection("Dsn=cinevision");
+            try
+            {
+                //DataTable dt = new DataTable();
+                String cadenaB = "";
+                con.Open();
+                cadenaB = " SELECT * FROM compra_boletos WHERE " + col + " LIKE ('%" + data.Trim() + "%')";
+                OdbcDataAdapter datos = new OdbcDataAdapter(cadenaB, con);
+                datos.Fill(dt);
+                OdbcCommand comando = new OdbcCommand(cadenaB, con);
+                OdbcDataReader leer;
+                leer = comando.ExecuteReader();
+            }
+            catch
+            {
+                String textalert = " El dato : " + data + " No se encontro ";
+                MessageBox.Show(textalert);
+            }
+            con.Close();
+            return dt;
+        }
+        public DataTable ActualizarT(string table, DataTable dt)
+        {
+            try
+            {
+                OdbcConnection con = new OdbcConnection("Dsn=cinevision");
+                String cadena = "";
+                con.Open();
+                cadena = "SELECT * FROM " + table;
+                OdbcDataAdapter datos = new OdbcDataAdapter(cadena, con);
+                datos.Fill(dt);
+                OdbcCommand comando = new OdbcCommand(cadena, con);
+                OdbcDataReader leer;
+                leer = comando.ExecuteReader();
+                con.Close();
+            }
+            catch
+            {
+                String textalert = " Error al actualizar datos, puede que no haya datos que mostrar ";
+                MessageBox.Show(textalert);
+            }
+            return dt;
+        }
+        public DataTable SelectProducto()
+        {
+            DataTable dt = new DataTable();
+            using (OdbcDataAdapter adapter = new OdbcDataAdapter("SELECT * FROM compra_boletos;", "FIL=MS Access;DSN=cinevision"))
+            {
+                adapter.SelectCommand.CommandType = CommandType.Text;
+                adapter.Fill(dt);
+            }
+            return dt;
+        }
     }
 }

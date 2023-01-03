@@ -24,7 +24,7 @@ namespace CineVision
             CargarTablas(cboFila);
             CargarTablas(cboColumna);
         }
-        string consulta = "";
+        
 
         public Controlador Cn { get => cn; set => cn = value; }
 
@@ -116,6 +116,23 @@ namespace CineVision
                 textPelicula.Text = cn.IDS;
                 cn.IDS = null;
             }
+        }
+        Controlador_CineVision.Controlador
+          crud = new Controlador_CineVision.Controlador();
+
+        private void iconButton1_Click(object sender, EventArgs e)
+        {
+            //bool resultado = crud.InsertProducto
+            //    (textID.Text, textCliente.Text, 
+            //    textPelicula.Text, textHora.Text,
+            //    textSala.Text, cboFila.Text, cboColumna.Text);
+            //if (resultado)
+            //{
+            //    dataGridView1.Rows.Add(new object[] { 
+            //        textID.Text, textCliente.Text,
+            //        textPelicula.Text, textHora.Text, 
+            //        textSala.Text, cboFila.Text, cboColumna.Text});
+            //}
         }
     }
 }

@@ -12,7 +12,7 @@ namespace Modelo_CineVision
 {
    public class Sentencia
     {
-        Conexion Con = new Conexion();
+        Controlador_CineVision.Conexion  Con = new Controlador_CineVision.Conexion();
 
         
 

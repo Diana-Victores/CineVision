@@ -64,6 +64,12 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActivosFijos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ActivosFijos.designer.cs">
+      <DependentUpon>ActivosFijos.cs</DependentUpon>
+    </Compile>
     <Compile Include="AyudaBoleto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +108,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="ActivosFijos.resx">
+      <DependentUpon>ActivosFijos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AyudaBoleto.resx">
       <DependentUpon>AyudaBoleto.cs</DependentUpon>
     </EmbeddedResource>

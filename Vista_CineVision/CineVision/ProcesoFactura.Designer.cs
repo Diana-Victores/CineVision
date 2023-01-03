@@ -30,28 +30,26 @@ namespace CineVision
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.button5 = new System.Windows.Forms.Button();
+            this.label8 = new System.Windows.Forms.Label();
+            this.textPagarT = new System.Windows.Forms.TextBox();
+            this.iconButton2 = new FontAwesome.Sharp.IconButton();
+            this.iconButton1 = new FontAwesome.Sharp.IconButton();
+            this.cboColumna = new System.Windows.Forms.ComboBox();
+            this.cboFila = new System.Windows.Forms.ComboBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textSala = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.textHora = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.textPelicula = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
             this.textCliente = new System.Windows.Forms.TextBox();
             this.textID = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
-            this.textHora = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.textSala = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.cboFila = new System.Windows.Forms.ComboBox();
-            this.cboColumna = new System.Windows.Forms.ComboBox();
-            this.iconButton1 = new FontAwesome.Sharp.IconButton();
-            this.iconButton2 = new FontAwesome.Sharp.IconButton();
-            this.textPagarT = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -70,31 +68,157 @@ namespace CineVision
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.textHora);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Controls.Add(this.button5);
             this.groupBox1.Controls.Add(this.textPelicula);
             this.groupBox1.Controls.Add(this.label10);
-            this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.textCliente);
             this.groupBox1.Controls.Add(this.textID);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(23, 60);
+            this.groupBox1.Location = new System.Drawing.Point(12, 60);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(807, 225);
+            this.groupBox1.Size = new System.Drawing.Size(818, 225);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos";
             // 
-            // button5
+            // label8
             // 
-            this.button5.Location = new System.Drawing.Point(525, 25);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(32, 33);
-            this.button5.TabIndex = 7;
-            this.button5.Text = "?";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(265, 186);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(44, 20);
+            this.label8.TabIndex = 19;
+            this.label8.Text = "Total";
+            // 
+            // textPagarT
+            // 
+            this.textPagarT.Location = new System.Drawing.Point(315, 184);
+            this.textPagarT.Name = "textPagarT";
+            this.textPagarT.Size = new System.Drawing.Size(155, 26);
+            this.textPagarT.TabIndex = 18;
+            // 
+            // iconButton2
+            // 
+            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.CircleMinus;
+            this.iconButton2.IconColor = System.Drawing.Color.Red;
+            this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton2.Location = new System.Drawing.Point(679, 142);
+            this.iconButton2.Name = "iconButton2";
+            this.iconButton2.Size = new System.Drawing.Size(94, 68);
+            this.iconButton2.TabIndex = 17;
+            this.iconButton2.Text = "Cancelar";
+            this.iconButton2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton2.UseVisualStyleBackColor = true;
+            // 
+            // iconButton1
+            // 
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.FloppyDisk;
+            this.iconButton1.IconColor = System.Drawing.Color.LightSeaGreen;
+            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton1.Location = new System.Drawing.Point(576, 142);
+            this.iconButton1.Name = "iconButton1";
+            this.iconButton1.Size = new System.Drawing.Size(97, 68);
+            this.iconButton1.TabIndex = 16;
+            this.iconButton1.Text = "Registrar";
+            this.iconButton1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.iconButton1.UseVisualStyleBackColor = true;
+            this.iconButton1.Click += new System.EventHandler(this.iconButton1_Click);
+            // 
+            // cboColumna
+            // 
+            this.cboColumna.FormattingEnabled = true;
+            this.cboColumna.Items.AddRange(new object[] {
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"});
+            this.cboColumna.Location = new System.Drawing.Point(667, 60);
+            this.cboColumna.Name = "cboColumna";
+            this.cboColumna.Size = new System.Drawing.Size(121, 28);
+            this.cboColumna.TabIndex = 15;
+            // 
+            // cboFila
+            // 
+            this.cboFila.FormattingEnabled = true;
+            this.cboFila.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14"});
+            this.cboFila.Location = new System.Drawing.Point(667, 27);
+            this.cboFila.Name = "cboFila";
+            this.cboFila.Size = new System.Drawing.Size(121, 28);
+            this.cboFila.TabIndex = 14;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(589, 58);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(72, 20);
+            this.label7.TabIndex = 13;
+            this.label7.Text = "Columna";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(627, 24);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(34, 20);
+            this.label6.TabIndex = 12;
+            this.label6.Text = "Fila";
+            // 
+            // textSala
+            // 
+            this.textSala.Location = new System.Drawing.Point(380, 113);
+            this.textSala.Name = "textSala";
+            this.textSala.Size = new System.Drawing.Size(137, 26);
+            this.textSala.TabIndex = 11;
+            this.textSala.Tag = "impuesto";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(327, 113);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(41, 20);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Sala";
+            // 
+            // textHora
+            // 
+            this.textHora.Location = new System.Drawing.Point(379, 73);
+            this.textHora.Name = "textHora";
+            this.textHora.Size = new System.Drawing.Size(138, 26);
+            this.textHora.TabIndex = 9;
+            this.textHora.Tag = "subTotal";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(305, 73);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(61, 20);
+            this.label1.TabIndex = 8;
+            this.label1.Text = "Horario";
             // 
             // textPelicula
             // 
@@ -112,16 +236,6 @@ namespace CineVision
             this.label10.Size = new System.Drawing.Size(63, 20);
             this.label10.TabIndex = 5;
             this.label10.Text = "Pelicula";
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(247, 62);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(31, 31);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "?";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // textCliente
             // 
@@ -168,42 +282,9 @@ namespace CineVision
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(12, 301);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(784, 188);
+            this.dataGridView1.Size = new System.Drawing.Size(818, 188);
             this.dataGridView1.TabIndex = 8;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(305, 73);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(61, 20);
-            this.label1.TabIndex = 8;
-            this.label1.Text = "Horario";
-            // 
-            // textHora
-            // 
-            this.textHora.Location = new System.Drawing.Point(379, 73);
-            this.textHora.Name = "textHora";
-            this.textHora.Size = new System.Drawing.Size(138, 26);
-            this.textHora.TabIndex = 9;
-            this.textHora.Tag = "subTotal";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(327, 113);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(41, 20);
-            this.label4.TabIndex = 10;
-            this.label4.Text = "Sala";
-            // 
-            // textSala
-            // 
-            this.textSala.Location = new System.Drawing.Point(380, 113);
-            this.textSala.Name = "textSala";
-            this.textSala.Size = new System.Drawing.Size(137, 26);
-            this.textSala.TabIndex = 11;
-            this.textSala.Tag = "impuesto";
+            this.dataGridView1.Tag = "compra_boletos";
             // 
             // label5
             // 
@@ -214,82 +295,6 @@ namespace CineVision
             this.label5.Size = new System.Drawing.Size(209, 29);
             this.label5.TabIndex = 9;
             this.label5.Text = "Compra de Boleto";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(627, 24);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(34, 20);
-            this.label6.TabIndex = 12;
-            this.label6.Text = "Fila";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(589, 58);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(72, 20);
-            this.label7.TabIndex = 13;
-            this.label7.Text = "Columna";
-            // 
-            // cboFila
-            // 
-            this.cboFila.FormattingEnabled = true;
-            this.cboFila.Location = new System.Drawing.Point(667, 27);
-            this.cboFila.Name = "cboFila";
-            this.cboFila.Size = new System.Drawing.Size(121, 28);
-            this.cboFila.TabIndex = 14;
-            // 
-            // cboColumna
-            // 
-            this.cboColumna.FormattingEnabled = true;
-            this.cboColumna.Location = new System.Drawing.Point(667, 60);
-            this.cboColumna.Name = "cboColumna";
-            this.cboColumna.Size = new System.Drawing.Size(121, 28);
-            this.cboColumna.TabIndex = 15;
-            // 
-            // iconButton1
-            // 
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.FloppyDisk;
-            this.iconButton1.IconColor = System.Drawing.Color.LightSeaGreen;
-            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconButton1.Location = new System.Drawing.Point(576, 142);
-            this.iconButton1.Name = "iconButton1";
-            this.iconButton1.Size = new System.Drawing.Size(97, 68);
-            this.iconButton1.TabIndex = 16;
-            this.iconButton1.Text = "Registrar";
-            this.iconButton1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.iconButton1.UseVisualStyleBackColor = true;
-            // 
-            // iconButton2
-            // 
-            this.iconButton2.IconChar = FontAwesome.Sharp.IconChar.CircleMinus;
-            this.iconButton2.IconColor = System.Drawing.Color.Red;
-            this.iconButton2.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconButton2.Location = new System.Drawing.Point(679, 142);
-            this.iconButton2.Name = "iconButton2";
-            this.iconButton2.Size = new System.Drawing.Size(94, 68);
-            this.iconButton2.TabIndex = 17;
-            this.iconButton2.Text = "Cancelar";
-            this.iconButton2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.iconButton2.UseVisualStyleBackColor = true;
-            // 
-            // textPagarT
-            // 
-            this.textPagarT.Location = new System.Drawing.Point(315, 184);
-            this.textPagarT.Name = "textPagarT";
-            this.textPagarT.Size = new System.Drawing.Size(155, 26);
-            this.textPagarT.TabIndex = 18;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(265, 186);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(44, 20);
-            this.label8.TabIndex = 19;
-            this.label8.Text = "Total";
             // 
             // ProcesoFactura
             // 
@@ -319,8 +324,6 @@ namespace CineVision
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.TextBox textPelicula;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox textSala;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox textHora;

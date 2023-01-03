@@ -76,3 +76,4 @@ C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\CineVision\bin\Debu
 C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\CineVision\bin\Debug\Modelo_CineVision.pdb
 C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\CineVision\obj\Debug\CineVision.ProcesoFactura.resources
 C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\CineVision\bin\Debug\CineVision.dll.config
+C:\Users\Diana\Desktop\CINEVISION  EF3ENERO\Vista_CineVision\CineVision\obj\Debug\Capa_VistaContabilidad.ActivosFijos.resources
