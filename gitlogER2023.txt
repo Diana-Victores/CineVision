@@ -1,0 +1,23 @@
+commit 703a8c4be76775c8c00cd920f365927f1e3faf2d (HEAD -> main, origin/main)
+Author: Diana Victores <dcpernillo@gmail.com>
+Date:   Tue Jan 3 14:11:12 2023 -0600
+
+    actualizando examen
+
+commit e1cff54e48186aaa18e8099c16fee44312509e22
+Author: Diana Victores <dcpernillo@gmail.com>
+Date:   Tue Jan 3 00:37:00 2023 -0600
+
+    actualizando programa
+
+commit 9785d3fd31fe953d84d6a300e59572bbbeedca22
+Merge: cf17d72 6ce49b8
+Author: Diana Victores <60207204+Diana-Victores@users.noreply.github.com>
+Date:   Mon Jan 2 22:23:42 2023 -0600
+
+    Merge pull request #2 from Diana-Victores/script9959191471
+
+    Script Base de Datos
+
+commit 6ce49b86646297b05fb879906ef7d94ac878a7f4 (origin/script9959191471, script9959191471)
+:
