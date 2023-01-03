@@ -21,8 +21,7 @@ namespace CineVision
         public ProcesoFactura()
         {
             InitializeComponent();
-            CargarTablas(cboFila);
-            CargarTablas(cboColumna);
+            
         }
         
 
@@ -69,14 +68,14 @@ namespace CineVision
 
 
 
-            if (cn.IDS == null && textCliente.Text.Length == 0)
+            if (cn.IDS == null && textIDMaestro.Text.Length == 0)
             {
                 cn.IDS = null;
                 a.Show();
             }
             else
             {
-                textCliente.Text = cn.IDS;
+                textIDMaestro.Text = cn.IDS;
                 cn.IDS = null;
             }
         }
@@ -88,10 +87,9 @@ namespace CineVision
 
         private void button2_Click(object sender, EventArgs e)
         {
-            cboColumna.ResetText();
-            cboFila.ResetText();
+            
             textID.Clear();
-            textCliente.Clear();
+            textIDMaestro.Clear();
             textPelicula.Clear();
             textSala.Clear();
             textPelicula.Clear();
@@ -133,6 +131,19 @@ namespace CineVision
             //        textPelicula.Text, textHora.Text, 
             //        textSala.Text, cboFila.Text, cboColumna.Text});
             //}
+        }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+            NavegadorVista.Navegador.idApp = "2100";
+            TextBox[] Grupotextbox = { textID, textIDMaestro,
+                textPelicula, textHora, textSala, textPagarT };
+            TextBox[] Idtextbox = { textID, textIDMaestro };
+            navegador1.textbox = Grupotextbox;
+            navegador1.tabla = dataGridView1;
+            navegador1.textboxi = Idtextbox;
+            navegador1.actual = this;
+            navegador1.cargar(dataGridView1, Grupotextbox, "cinevision");
         }
     }
 }

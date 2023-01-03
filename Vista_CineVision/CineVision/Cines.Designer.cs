@@ -74,7 +74,7 @@ namespace CineVision
             this.dgvcine.RowTemplate.Height = 28;
             this.dgvcine.Size = new System.Drawing.Size(442, 223);
             this.dgvcine.TabIndex = 42;
-            this.dgvcine.Tag = "Cines";
+            this.dgvcine.Tag = "alumnos";
             // 
             // textDireccion
             // 
